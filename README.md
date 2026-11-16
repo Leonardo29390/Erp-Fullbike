@@ -1,22 +1,18 @@
-# 🏍️ FullBike ERP - Sistema de Gestión Integral
+# FullBike ERP - Sistema de Gestión Integral
 
 **FullBike ERP** es una solución web empresarial diseñada para optimizar y centralizar los procesos operativos y administrativos de talleres, concesionarios o negocios del sector motociclista. El sistema integra la gestión de inventarios, ventas, órdenes de servicio y administración de clientes en una interfaz intuitiva y escalable.
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Gestión de Inventario:** Control en tiempo real de repuestos, accesorios y motocicletas, con alertas de stock mínimo y categorización.
 * **Módulo de Ventas y Facturación:** Registro ágil de transacciones, generación de comprobantes y seguimiento del historial comercial.
 * **Órdenes de Servicio (Taller):** Administración de mantenimientos preventivos y correctivos, asignación de técnicos y trazabilidad por vehículo.
 * **Gestión de Clientes y Proveedores (CRM/SRM):** Base de datos centralizada con historial de compras, servicios realizados y contactos clave.
 * **Panel Administrativo y Reportes:** Visualización de métricas clave para la toma de decisiones estratégicas.
-
-*(Nota: Ajusta o amplía esta lista según los módulos exactos que implementaste en el proyecto).*
-
----
-
-## 🛠️ Stack Tecnológico
+* 
+## Stack Tecnológico
 
 El proyecto está construido bajo una arquitectura robusta utilizando tecnologías modernas del ecosistema .NET y desarrollo web:
 
